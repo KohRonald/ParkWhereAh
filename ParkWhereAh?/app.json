@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "ParkWhereAh_App",
+    "slug": "ParkWhereAh_App",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/ParkWhereAh_Icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/ParkWhereAh_Splash-screen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#E3F2FD"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/ParkWhereAh_Adaptive-icon.png",
+        "backgroundColor": "#E3F2FD"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
