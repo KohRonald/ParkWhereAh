@@ -1,5 +1,5 @@
 # ParkWhereAh
-ParkWhereAh? - An Informative Carpark Mobile Application that displays Singapore carpark details and live lots availability
+ParkWhereAh? - An Informative Carpark Mobile Application that displays Singapore HDB carpark details and live lots availability
 
 ParkWhereAh is a parking application has been developed as part of my Final Year Project module.
 While it is not currently live and is not actively maintained, it offers several valuable features for anyone interested in enhancing it or using it for reference:
